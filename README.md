@@ -1,3 +1,3 @@
 # Profile Website using React
 
-You can see the images in folder 'assets/Website'!
+You can see the website screenshots in folder 'assets/Website'!
