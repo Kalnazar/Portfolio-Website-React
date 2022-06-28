@@ -11,42 +11,42 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'I was too lazy to post my projects, just random pictures',
     github: 'https://github.com',
     demo: 'https://github.com'
   }
